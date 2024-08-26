@@ -1,2 +1,2 @@
 # belly-button-challenge
-json
+Welcome to the Belly Button Biodiversity Dashboard! This project utilizes HTML and JSON to create an interactive website exploring the diverse microbes that inhabit human navels. The dataset featured here highlights a key finding: a few microbial species, known as operational taxonomic units (OTUs), are found in over 70% of people, while many others are much less common. This dashboard visualizes these insights, offering a user-friendly way to explore and understand the microbial diversity of the human belly button.
